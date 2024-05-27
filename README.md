@@ -40,7 +40,7 @@ curl.exe -H Accept:text/event-stream http://localhost:3001/status
 
 #### Fronend react test:
 ```sh
-$ cd Frontend_React_App\sse-client
+$ cd sse-client
 $ yarn install
 $ npm start
 ```
